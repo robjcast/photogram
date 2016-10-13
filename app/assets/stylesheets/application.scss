@@ -17,3 +17,21 @@
 /* "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables" */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.img-responsive {
+	display: inline;
+}
+
+.form-horizontal .form-group {
+	margin: auto;
+	width: 50%;
+}
+
+.file.required {
+	margin: auto;
+	width: 100%;
+	text-align: center;
+}
+
+
+
